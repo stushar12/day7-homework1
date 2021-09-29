@@ -1,0 +1,105 @@
+* {
+    padding: 0px;
+    margin: 0px;
+
+}
+
+.para {
+    font-weight: 600;
+    font-size: 30px;
+    text-align: center;
+    background: rgb(238, 174, 202);
+    background: linear-gradient(90deg, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+}
+
+.div1 {
+    width: auto;
+    height: fit-content;
+    padding: 10px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.sub_div {
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.sub_div11 {
+    font-weight: 600;
+    font-size: 30px;
+    text-align: center;
+    padding: 5px;
+}
+
+.sub_div1button {
+    font-weight: 500;
+    font-size: 20px;
+    text-align: center;
+    background-color: rgb(24, 95, 250);
+    width: fit-content;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}
+
+.sub_div_middle {
+    font-weight: 600;
+    font-size: 40px;
+    text-align: center;
+    padding: 10px;
+}
+
+.div2 {
+    background: rgb(238, 174, 202);
+    background: linear-gradient(90deg, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+    width: auto;
+    height: fit-content;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-evenly;
+    /* margin-top: 20px; */
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.sub_div_middle2 {
+    font-weight: 600;
+    font-size: 15px;
+    text-align: center;
+    padding: 10px;
+}
+
+
+.div2_button {
+    font-weight: 500;
+    font-size: 20px;
+    text-align: center;
+    background-color: rgb(24, 95, 250);
+    width: fit-content;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}
+
+.table {
+    font-size: 12px;
+    width: fit-content;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    /* height: fit-content; */
+    border: 4px solid black;
+    border-spacing: initial;
+    background: rgb(238, 174, 202);
+    background: linear-gradient(90deg, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+}
+
+.match {
+    padding: 40px
+}
